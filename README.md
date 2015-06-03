@@ -18,7 +18,6 @@ Output signals:
 Mealy outputs:
 FSM\_LCD\_WR, FSM\_LCD\_CLR
 
-
 Moore outputs:
 FSM\_CNT\_CE, FSM\_MX\_MEM, FSM\_MX\_LCD
 
