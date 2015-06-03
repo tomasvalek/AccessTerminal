@@ -15,7 +15,7 @@ CO : CNT_OF
 
 Output signals:
 -------
-Mealy outputs::
+Mealy outputs:
 FSM\_LCD\_WR, FSM\_LCD\_CLR
 
 
